@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
-from websites.seriouseats import get_recipes
-from schedule_function.db import RecipeDB
+from scraped_websites.seriouseats import get_recipes
+from cloud_function.db import RecipeDB
 
 
 if __name__ == "__main__":

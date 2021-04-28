@@ -1,4 +1,4 @@
-from schedule_function.db import RecipeDB
+from cloud_function.db import RecipeDB
 import unittest
 from dotenv import load_dotenv
 import os
