@@ -13,9 +13,9 @@
 ### Sample recipes:
 <p float="left">
 <img src="https://automatycznyjadlospis.s3.eu-central-1.amazonaws.com/breakfast.jpg" alt="error getting picture.. sorry" width="200" height="432" >
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://automatycznyjadlospis.s3.eu-central-1.amazonaws.com/main.jpg" alt="error getting picture.. sorry" width="200" height="432" ">
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://automatycznyjadlospis.s3.eu-central-1.amazonaws.com/soup.jpg" alt="error getting picture.. sorry" width="200" height="432" >
 </p>
 
